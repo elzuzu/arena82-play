@@ -14,9 +14,10 @@ automatiquement depuis le dépôt source.
 | Action | Clavier | Manette |
 |---|---|---|
 | Conduire | WASD / flèches (ZQSD sur AZERTY) | stick gauche + gâchettes |
-| Frein à main, dérapage | Espace | A |
-| Nitro | Maj | B / RB |
-| Saut hydraulique | E ou clic droit | Y / LB |
+| Saut (encore en l'air avec DOUBLE HOP) | Espace, appui bref | A |
+| Frein à main, dérapage | Espace maintenue, ou C | B |
+| Nitro | Maj | RB |
+| SLAM : en l'air, piqué au sol ; au sol, gros saut hydraulique. Onde de choc à l'impact | E ou clic droit | Y / LB |
 | DISCO INFERNO | F | X |
 | Choisir une carte / relancer | 1 2 3 / R | clic |
 | Pause | Échap | Start |
